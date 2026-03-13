@@ -89,7 +89,6 @@
 - Contributed to various OSS projects  
 - Passionate about community-driven development
 
-![Snake](https://raw.githubusercontent.com/dibyanshu-pal-kushwaha/dibyanshu-pal-kushwaha/output/github-contribution-grid-snake.svg)
 
 
 
