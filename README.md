@@ -94,8 +94,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Dibyanshu Pal Kushwaha](https://www.linkedin.com/in/dibyanshu-pal-kushwaha-6bb442280)
-- 🐦 X: [X.com](https://x.com/Dibyanshu1729)
+- 💼 LinkedIn: [Dibyanshu Pal Kushwaha/LinkedIn](https://www.linkedin.com/in/dibyanshu-pal-kushwaha-6bb442280)
+- 🐦 X: [Dibyanshu Pal Kushwaha/x.com](https://x.com/Dibyanshu1729)
 - 📧 Email: dibyanshu1729@gmail.com
 
 ## ⚡ Fun Facts
